@@ -1,0 +1,53 @@
+# DocuMind Test Document
+## Company Profile: GreenLeaf Technologies
+
+### 1. Company Overview
+GreenLeaf Technologies is a fictional software company founded in 2021 in Dhaka, Bangladesh. The company develops web applications, mobile applications, and artificial intelligence solutions for small and medium-sized businesses.
+
+The company's mission is to make technology affordable and accessible to businesses of all sizes. Its headquarters is located in Uttara, Dhaka.
+
+### 2. Products and Services
+GreenLeaf Technologies offers four main services:
+
+1. Web Development: The company builds responsive websites and e-commerce platforms.
+2. Mobile App Development: The company creates Android and iOS applications.
+3. AI Chatbots: The company develops chatbots that answer customer questions using company documents.
+4. Data Analytics: The company analyzes business data to help organizations make better decisions.
+
+### 3. Employees
+The company has 25 employees. The team includes 8 software developers, 4 UI/UX designers, 5 AI and data specialists, 3 project managers, and 5 marketing and customer support employees.
+
+The company's technical team uses Python, JavaScript, React, Node.js, and PostgreSQL.
+
+### 4. Working Hours
+The office operates Sunday through Thursday, from 9:00 AM to 5:00 PM. Friday and Saturday are weekly holidays.
+
+Employees can work remotely up to two days per week with manager approval.
+
+### 5. Pricing
+The company offers the following services:
+
+- Basic website development: $300
+- E-commerce website development: $800
+- AI chatbot development: $500
+- Data analytics report: $200
+
+Prices may change depending on project complexity and customer requirements.
+
+### 6. Customer Support
+Customers can contact the support team by email at support@greenleaf.example. The standard response time is within 24 business hours.
+
+The company provides 30 days of free bug-fix support after a project is delivered. New features and major changes require a separate agreement.
+
+### 7. Security Policy
+GreenLeaf Technologies follows basic security practices. These include encrypted connections, strong passwords, restricted access to customer information, and regular software updates.
+
+Customer documents uploaded to the company's AI chatbot service should only be accessible to authorized users. The company recommends removing sensitive information before uploading documents.
+
+### 8. Future Plans
+In 2027, GreenLeaf Technologies plans to launch a document-based AI assistant for educational institutions. The proposed system will help students search lecture notes, ask questions about study materials, and find relevant information with source references.
+
+The company also plans to hire five additional AI engineers and expand its services to customers outside Bangladesh.
+
+### 9. Summary
+GreenLeaf Technologies is a fictional technology company based in Dhaka. It provides web development, mobile applications, AI chatbots, and data analytics services. Its future goal is to develop useful AI tools for education and business.
